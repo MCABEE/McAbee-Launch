@@ -17,7 +17,7 @@ const Index = () => {
                     </div>
                     <div>
                         <p className="ml-16 text-lg text-white mt-36">
-                            We  Are  Almost
+                            We&nbsp;&nbsp;Are&nbsp;&nbsp;Almost
                         </p>
                         <p className="text-5xl ml-16 text-white">
                             Ready
