@@ -9,7 +9,7 @@ const Index = () => {
                     <div>
                         <img src={logo} alt="" className='ml-auto mt-16 h-28 w-28' />
                         <p className="w-96 text-right text-white">
-                            Mcabee is a web-mobile application development organization, headquartered in Chennai City, India.
+                            Mcabee is a web & mobile application development organization, headquartered in Chennai City, India.
                         </p>
                     </div>
                     <div className="h-[230px]">
