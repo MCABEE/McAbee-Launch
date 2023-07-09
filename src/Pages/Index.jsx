@@ -25,7 +25,7 @@ const Index = () => {
                     </div>
                 </div>
                 <div className='flex w-3/12 mt-20 ml-32'>
-                    <hr className="bg-[#0C9600] border border-[#0C9600] rounded-l-3xl h-2 w-2/3" />
+                    <hr className="bg-purple-600 border border-purple-500 rounded-l-3xl h-2 w-2/3" />
                     <hr className="bg-[#D9D9D9] rounded-r-3xl h-2 w-1/3" />
                 </div>
                 <p className='text-[32px] mt-6 text-white ml-32 font-light'>
